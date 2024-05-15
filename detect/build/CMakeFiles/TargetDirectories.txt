@@ -1,0 +1,5 @@
+/home/ivlabs/detect/build/CMakeFiles/rebuild_cache.dir
+/home/ivlabs/detect/build/CMakeFiles/sample.dir
+/home/ivlabs/detect/build/CMakeFiles/crater.dir
+/home/ivlabs/detect/build/CMakeFiles/edit_cache.dir
+/home/ivlabs/detect/build/CMakeFiles/aiden.dir
